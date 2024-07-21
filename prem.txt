@@ -4,6 +4,7 @@ hi to every one
 hi this is prem
 
 
+
 #fix bug 202
 
 function multiplication(){
@@ -12,3 +13,15 @@ var b=30;
 var c=a*b;
 // multiplication is completed...
 }
+
+//This bug 201
+
+function addition(){
+
+var a =10;
+var b=20;
+var c=a+b;
+//not solved...
+}
+
+
