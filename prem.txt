@@ -3,3 +3,12 @@ hi to every one
 
 hi this is prem
 
+
+#fix bug 202
+
+function multiplication(){
+var a=10;
+var b=30;
+var c=a*b;
+// multiplication is completed...
+}
